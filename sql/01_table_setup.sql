@@ -1,0 +1,2 @@
+-- SQL table setup script
+-- Add your CREATE TABLE statements here.
