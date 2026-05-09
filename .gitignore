@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment / secrets
+.env
+.env.*
+config.local.php
+
+# Build/system artifacts
+dist/
+coverage/
+.DS_Store
